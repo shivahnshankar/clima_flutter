@@ -21,3 +21,7 @@ class Location {
     }
   }
 }
+
+// int condition = weatherData['weather'][0]['id'];
+// String name = weatherData['name'];
+// double temp = weatherData['main']['temp'];
